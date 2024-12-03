@@ -18,7 +18,7 @@ Hier könnt ihr euch immer die aktuellste xShip Repository herunterladen.
 Enthalten in der Repository ist immer die xShip Version, für die es eine aktuelle Kodi Release Version gibt.
 Nightly, Alpha oder Beta Versionen werden von xShip nicht unterstützt!
 
-[![Link zum Repository Download](./assets/img/downloads.png)](./zips/test.zip) <li><a href="repository.xship-1.5.0.zip">repository.xship-1.5.0.zip</a></li>
+[![Link zum Repository Download](./assets/img/downloads.png)](./zips/repository.xship-1.5.0.zip)
 
 * * *
 
@@ -30,7 +30,7 @@ Hier bieten wir den xShip Player Link an. Damit könnt Ihr ganz bequem den xShip
 Kopiert den Link in die The MovieDB Helper Einstellungen unter Abspieler und klickt auf Download.
 Und schon wird der xShip Player heruntergeladen und installiert.
 
-[![Link zum Repository Download](./assets/img/downloads.png)](./zips/test1.zip)
+[![Link zum Player Download](./assets/img/downloads.png)](https://tinyurl.com/xship-tmdb)
 
 * * *
 
