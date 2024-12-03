@@ -119,6 +119,7 @@ kbd {
 }
 
 header {
+  text-align:center;
   width:270px;
   float:left;
   position:fixed;
@@ -136,7 +137,7 @@ ul.downloads {
 }
 
 .downloads li {
-  width:89px;
+  width:133px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
@@ -174,9 +175,9 @@ strong {
   font-weight:700;
 }
 
-.downloads li + li + li {
+.downloads li + li {
   border-right:none;
-  width:89px;
+  width:133px;
 }
 
 .downloads a strong {
