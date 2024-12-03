@@ -10,8 +10,17 @@ Willkommen auf der unserer xShip Download Seite.
 
 * * *
 
-# Header 1
+```
+## 1. xShip Repository
+```
 
+Hier könnt ihr euch immer die aktuellste xShip Repository herunterladen.
+Enthalten in der Repository ist immer die xShip Version, für die es eine aktuelle Kodi Release Version gibt.
+Nightly, Alpha oder Beta Versionen werden von xShip nicht unterstützt!
+
+[![Link zum Repository Download](./assets/img/downloads.png)](./zips/test.zip)
+
+* * *
 Text 
 
 ## Header 2
