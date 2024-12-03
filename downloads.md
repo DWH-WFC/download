@@ -19,7 +19,8 @@ Enthalten in der Repository ist immer die xShip Version, für die es eine aktuel
 Nightly, Alpha oder Beta Versionen werden von xShip nicht unterstützt!
 
 [![Link zum Repository Download](./assets/img/downloads.png)](./zips/repository.xship-1.5.0.zip)
-
+<!-- Der Link ist für die Kodi Quelle -->
+<!-- Bitte bei Versionsänderungen auch Links in der downloads.md anpassen! -->
 * * *
 
 ```
