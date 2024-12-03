@@ -23,7 +23,7 @@ Nightly, Alpha oder Beta Versionen werden von xShip nicht unterstützt!
 * * *
 
 ```
-1. xShip TMDb Player
+2. xShip TMDb Player
 ```
 
 Hier bieten wir den xShip Player Link an. Damit könnt Ihr ganz bequem den xShip Player für den The MovieDb Player nutzen. 
