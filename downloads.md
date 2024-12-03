@@ -6,59 +6,125 @@ layout: default
 
 # xShip - Das Original
 
-Willkommen auf der unserer xShip Github Seite.
+Willkommen auf der unserer xShip Download Seite.
 
 * * *
 
-#### Haftungsausschluss bei der Benutzung von xShip
+# Header 1
 
-xShip wurde als Video-Addon entwickelt um Streams verschiedenster Webseiten zu sammeln und anzuzeigen. Der Inhalt von xShip, als auch das Angebot an Webseiten-Inhalten wird von den xShip Entwicklern wieder weiter entwickelt.
-Diese Webseiten werden auch als Scraper bezeichnet, welche auf die eigentlichen Quellen verweisen, die für das bereitgestellte Angebot verantworlich sind! Der bereitgestellte Inhalt der Webseiten steht in keinem Bezug zu xShip oder den Entwicklern!
-xShip durchsucht die enthaltenen Webseiten nach Streams und stellt diese in einer Übersicht dar.
+Text 
+
+## Header 2
+
+> Text blockquote
+> Text blockquote
+> Text blockquote
+
+### Header 3
+
+```js
+// Code
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
 
 * * *
 
-#### Kostenloses xShip Video-Addon
+### Here is an unordered list:
 
-xShip ist für jeden kostenlos! Solltet Ihr für xShip bezahlt haben dann meldet dies dem xShip Team, und holt euch euer Geld zurück. xShip ist und bleibt kostenlos!
-Wir sind gegen kostenpflichtige Angebote der sogenannten Buildstuben die im Internet hausieren und mit xShip Geld erwirtschaften wollen. 
-Das xShip Team arbeitet gegen die illegalen Geldmacher denn xShip ist kostenlos und soll es auch bleiben! Wenn euch unser Video-Addon gefällt und ihr der Meinung seid Ihr wollt uns unterstützen und eine Spende zukommen lassen, dann spendet einen kleinen Beitrag eurem Tierheim in der Nähe oder einer der S.O.S. Kinderdörfer oder sonst einer gemeinnützigen Organisation die Hilfe benötigt.
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-* * *
+### And an ordered list:
 
-#### Enthaltene Scraper
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
-| Scraper        | Enthalten | Login | DNS-Sperre |
-|:---------------|:----------|:------|:-----------|
-| Aniworld       |    [x]    |  [x]  |            |
-| Einschalten    |    [x]    |       |            |
-| Filmpalast     |    [x]    |       |    [x]     |
-| Filmpro        |    [x]    |       |            | 
-| Flimmerstube   |    [x]    |  [x]  |            |
-| HDFilme        |    [x]    |       |            |
-| Huhu           |    [x]    |       |            |
-| KinoGer        |    [x]    |       |            | 
-| Kinokiste      |    [x]    |       |            |
-| KKIste         |    [x]    |       |            |
-| Megakino       |    [x]    |       |    [x]     |
-| Moflix         |    [x]    |       |            | 
-| Movie2k        |    [x]    |       |            |
-| Movie4k        |    [x]    |       |            |
-| Netzkino       |    [x]    |       |            |
-| Serienstream   |    [x]    |  [x]  |    [x]     | 
-| Streamcloud    |    [x]    |       |            |
-| Vavoo          |    [x]    |       |            |
+### And a nested list:
 
-* * *
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-#### The MovieDB Helper xShip Player
+### Small image
 
-Hier bieten wir den xShip Player Link an. Damit könnt Ihr ganz bequem den xShip Player für den The MovieDb Player nutzen. 
-Kopiert den Link in die The MovieDB Helper Einstellungen unter Abspieler und klickt auf Download.
-Und schon wird der xShip Player heruntergeladen und installiert.
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-<p><a href="https://tinyurl.com/xship-tmdb">https://tinyurl.com/xship-tmdb		<strong>xShip TMDb Player Link</strong></a></p>
+### Large image
 
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+[Link to another page](./another-page.html).
+
+Text
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
 * * *
 
 ```
