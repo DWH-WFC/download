@@ -138,7 +138,7 @@ ul.downloads {
 
 .downloads li {
   width:133px;
-  float:left;
+  float:center;
   border-right:1px solid #e0e0e0;
   height:40px;
 }
@@ -175,7 +175,7 @@ strong {
   font-weight:700;
 }
 
-.downloads li + li {
+.downloads li{
   border-right:none;
   width:133px;
 }
